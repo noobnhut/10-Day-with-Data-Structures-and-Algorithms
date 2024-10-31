@@ -1,12 +1,11 @@
 # 10 Ngày Học Cấu Trúc Dữ Liệu và Giải Thuật
 
-Dự án này chứa nội dung của khóa học 10 ngày về **Cấu Trúc Dữ Liệu** và **Giải Thuật** được triển khai bằng TypeScript. Mỗi ngày trong hành trình này sẽ tập trung vào một khái niệm khác nhau, từ các cấu trúc dữ liệu cơ bản như Stack và Queue, đến các thuật toán tìm kiếm và sắp xếp.
+Dự án này chứa nội dung 10 ngày về **Cấu Trúc Dữ Liệu** và **Giải Thuật** được triển khai bằng TypeScript.Hành trình này sẽ tập trung vào một khái niệm khác nhau, từ các cấu trúc dữ liệu cơ bản như Stack và Queue, đến các thuật toán tìm kiếm và sắp xếp.
 
 ## Mục Tiêu Dự Án
 - Củng cố kiến thức về cấu trúc dữ liệu và giải thuật.
 - Hiểu rõ cách triển khai các cấu trúc dữ liệu phổ biến bằng TypeScript.
 - Thực hành các thuật toán tìm kiếm, sắp xếp và tối ưu hóa.
-
 
 ## Cấu Trúc Thư Mục
 

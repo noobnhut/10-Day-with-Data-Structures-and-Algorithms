@@ -14,6 +14,7 @@ vd:
 + Stack<number> 
 + Stack<string>
 */
+
 class Stack<T> {
   private items: T[] = [];
   private maxSize: number = 0;
